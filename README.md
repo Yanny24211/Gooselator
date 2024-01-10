@@ -11,4 +11,4 @@ To make the bot even more accesible, We also designed a discord bot using python
 
 This project was made in a time span of 24 Hours 
 
-Project Link: https://yanny24211.github.io/gooselator-/
+Project Link: [https://yanny24211.github.io/gooselator-/](https://yanny24211.github.io/Gooselator/)https://yanny24211.github.io/Gooselator/
